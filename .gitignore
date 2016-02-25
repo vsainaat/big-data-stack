@@ -1,0 +1,4 @@
+*.pyc
+.machines.yml
+inventory.txt
+keys
